@@ -1,1 +1,1 @@
-# android-sdk
+# LynGro Android SDK
