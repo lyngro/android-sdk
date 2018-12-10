@@ -25,9 +25,8 @@
     
 ## Send Page views ##
         tracker = ((SharedClass) getApplication()).getTracker();
-
-        final String targetingextra = this.getIntent().getStringExtra("targeting");
-        LyngroHeartbeatHandler handler = tracker.sendPageView("18", "http://example.com/article?id=1");
+        
+        LyngroHeartbeatHandler handler = tracker.sendPageView("postid", "http://example.com/article?id=1");
         
 ## Send Time Spent
 
