@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lyngro Android Sdk - Sample Application</string>
+    <!--<integer name="lyngro_app_id">99</integer>-->
+    <string name="Lyngro_app_key">02c0d624-fb0e-4e75-8769-f28cf2e646f0</string>
+    <string name="Lyngro_app_domain">almayadeen.net</string>
+    <string name="Lyngro_widgetid">5650687863029760</string>
+
+    <integer name="Lyngro_widget_items_count">6</integer>
+</resources>
