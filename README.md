@@ -47,4 +47,4 @@
         recommendations = new RecommendationLayout(this, tracker, getResources().getInteger(R.integer.Lyngro_widget_items_count));
         ((LinearLayout) findViewById(R.id.action_container)).addView(recommendations);
 
-#### Note Check RecommendationLayout in the demo folder ####
+Note Check RecommendationLayout in the demo folder ####
